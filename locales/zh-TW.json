@@ -117,5 +117,6 @@
   "Migrate now": "現在遷移",
   "Import it": "導入",
   "Liquidity Provider QuestionHelper": "每筆交易的壹部分（0.30％）作為獎勵以激勵流動性提供者。",
-  "LiquidityReward": "流動性挖礦的獎勵是變動的，請以實際到賬數量為準."
+  "LiquidityReward": "提取時挖礦所得將一次性到賬，實際到賬金額可能與展示數量有稍許差異.",
+  "TradingReward": "由於挖礦產生的代幣以及權重持續在變化，因此實際到賬可能與展示數量有稍許差異。"
 }
