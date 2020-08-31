@@ -46,44 +46,12 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
     },
     {
-      "name": "0xBitcoin Token",
-      "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
-      "symbol": "0xBTC",
-      "decimals": 8,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"
-    },
-    {
-      "name": "Aave Interest bearing DAI",
-      "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
-      "symbol": "aDAI",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d/logo.png"
-    },
-    {
-      "name": "Amon",
-      "address": "0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
-      "symbol": "AMN",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c/logo.png"
-    },
-    {
       "name": "Ampleforth",
       "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
       "symbol": "AMPL",
       "decimals": 9,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD46bA6D942050d489DBd938a2C909A5d5039A161/logo.png"
-    },
-    {
-      "name": "Aragon Network Juror",
-      "address": "0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
-      "symbol": "ANJ",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcD62b1C403fa761BAadFC74C525ce2B51780b184/logo.png"
     },
     {
       "name": "Aragon Network Token",
@@ -126,28 +94,12 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
     },
     {
-      "name": "Bloom Token",
-      "address": "0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e",
-      "symbol": "BLT",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e/logo.png"
-    },
-    {
       "name": "Bancor Network Token",
       "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
       "symbol": "BNT",
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png"
-    },
-    {
-      "name": "PieDAO BTC++",
-      "address": "0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd",
-      "symbol": "BTC++",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd/logo.png"
     },
     {
       "name": "bZx Protocol Token",
@@ -1152,11 +1104,27 @@
     },
     {
       "name": "BTswap Token",
-      "address": "0xed2ACF1E3776585b3568Cd88Da08f5be3d894a88",
+      "address": "0xCb4336D9aA2027f563437B721b34C56a3E7A23F4",
       "symbol": "BT",
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.jsdelivr.net/gh/btswap/btswap.github.io/coins/bt.png"
+    },
+    {
+      "name": "STPT Token",
+      "address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
+      "symbol": "STPT",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.jsdelivr.net/gh/btswap/btswap.github.io/coins/stpt.png"
+    },
+    {
+      "name": "yamv2 Token",
+      "address": "0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a",
+      "symbol": "YAMV2",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.jsdelivr.net/gh/btswap/btswap.github.io/coins/yam2.png"
     }
   ]
 }
