@@ -116,7 +116,7 @@
   "Dont see a pool you joined": "沒有看到您加入的資金池",
   "Migrate now": "現在遷移",
   "Import it": "導入",
-  "Liquidity Provider QuestionHelper": "每筆交易的壹部分（0.30％）作為獎勵以激勵流動性提供者。",
+  "Liquidity Provider QuestionHelper": "每筆交易的壹部分（0.20％）作為獎勵以激勵流動性提供者。",
   "LiquidityReward": "它表示你佔總金額的比例，流動性權重與資金和區塊數量都有關係，提現後映射成BT，區塊數權重清零重新計算。",
   "TradingReward": "它表示你佔總金額的比例，總金額和交易權重實時都會變化，提現會映射成一個erc20BT，提現後交易權重會清除。"
 }
