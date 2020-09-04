@@ -134,5 +134,6 @@
   "Import it": "Import it.",
   "Liquidity Provider QuestionHelper": "A portion of each trade (0.20%) goes to liquidity providers as a protocol incentive.",
   "LiquidityReward": "The 'liquidity reward' may change before you withdraw BT. It shows the  ratio of your liquidity. When you withdraw BT, the amount of tokens will be calculated and your corresponding rewards for liquidity mining will restart.",
-  "TradingReward": "The 'trading reward balance' may fluctuate before you withdraw BT. The trading rewards displayed is based on the ratio of your transaction volume to the total transaction volume. Upon withdrawal of BT, your ratio will be updated for the next reward cycle."
+  "TradingReward": "The 'trading reward balance' may fluctuate before you withdraw BT. The trading rewards displayed is based on the ratio of your transaction volume to the total transaction volume. Upon withdrawal of BT, your ratio will be updated for the next reward cycle.",
+  "Show All Pool": "Show All Pool"
 }
