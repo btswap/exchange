@@ -133,6 +133,6 @@
   "Migrate now": "Migrate now.",
   "Import it": "Import it.",
   "Liquidity Provider QuestionHelper": "A portion of each trade (0.20%) goes to liquidity providers as a protocol incentive.",
-  "LiquidityReward": "It represents your proportion of the total amount. The liquidity weight is related to the funds and the number of blocks. After the withdrawal is mapped to BT, the weight of the block number is reset and recalculated.",
-  "TradingReward": "It represents your percentage of the total amount. The total amount and the transaction weight will change in real time. The withdrawal will be mapped to an erc20BT, and the transaction weight will be cleared after the withdrawal."
+  "LiquidityReward": "The 'liquidity reward' may change before you withdraw BT. It shows the  ratio of your liquidity. When you withdraw BT, the amount of tokens will be calculated and your corresponding rewards for liquidity mining will restart.",
+  "TradingReward": "The 'trading reward balance' may fluctuate before you withdraw BT. The trading rewards displayed is based on the ratio of your transaction volume to the total transaction volume. Upon withdrawal of BT, your ratio will be updated for the next reward cycle."
 }
