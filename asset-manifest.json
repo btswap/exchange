@@ -4,8 +4,8 @@
     "static/js/0.25ec5840.chunk.js.map": "https://cdn.jsdelivr.net/gh/btswap/exchange/static/js/0.25ec5840.chunk.js.map",
     "static/js/1.9f09ab4a.chunk.js": "https://cdn.jsdelivr.net/gh/btswap/exchange/static/js/1.9f09ab4a.chunk.js",
     "static/js/1.9f09ab4a.chunk.js.map": "https://cdn.jsdelivr.net/gh/btswap/exchange/static/js/1.9f09ab4a.chunk.js.map",
-    "main.js": "https://cdn.jsdelivr.net/gh/btswap/exchange/static/js/main.d8a7212c.chunk.js",
-    "main.js.map": "https://cdn.jsdelivr.net/gh/btswap/exchange/static/js/main.d8a7212c.chunk.js.map",
+    "main.js": "https://cdn.jsdelivr.net/gh/btswap/exchange/static/js/main.622b15ad.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/btswap/exchange/static/js/main.622b15ad.chunk.js.map",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/btswap/exchange/static/js/runtime-main.72fec3ab.js",
     "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/btswap/exchange/static/js/runtime-main.72fec3ab.js.map",
     "static/css/4.f6ba02c0.chunk.css": "https://cdn.jsdelivr.net/gh/btswap/exchange/static/css/4.f6ba02c0.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.0f962176.chunk.js": "https://cdn.jsdelivr.net/gh/btswap/exchange/static/js/9.0f962176.chunk.js",
     "static/js/9.0f962176.chunk.js.map": "https://cdn.jsdelivr.net/gh/btswap/exchange/static/js/9.0f962176.chunk.js.map",
     "index.html": "https://cdn.jsdelivr.net/gh/btswap/exchange/index.html",
-    "precache-manifest.55fe8dff4676ee629f6c956974feb9f6.js": "https://cdn.jsdelivr.net/gh/btswap/exchange/precache-manifest.55fe8dff4676ee629f6c956974feb9f6.js",
+    "precache-manifest.be12d96d5faf3c033f056ee8ecec6879.js": "https://cdn.jsdelivr.net/gh/btswap/exchange/precache-manifest.be12d96d5faf3c033f056ee8ecec6879.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/btswap/exchange/service-worker.js",
     "static/css/4.f6ba02c0.chunk.css.map": "https://cdn.jsdelivr.net/gh/btswap/exchange/static/css/4.f6ba02c0.chunk.css.map",
     "static/js/4.4a6fbf18.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/btswap/exchange/static/js/4.4a6fbf18.chunk.js.LICENSE.txt",
@@ -58,6 +58,6 @@
     "static/js/runtime-main.72fec3ab.js",
     "static/css/4.f6ba02c0.chunk.css",
     "static/js/4.4a6fbf18.chunk.js",
-    "static/js/main.d8a7212c.chunk.js"
+    "static/js/main.622b15ad.chunk.js"
   ]
 }
