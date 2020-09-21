@@ -78,6 +78,7 @@
   "tradingPool" : "交易池",
   "liquidityPool" : "流动资金池",
   "totalReward" : "池子总金额",
+  "traderAmount" : "交易额", 
   "myReward" : "我的奖励",
   "withdraw": "转出",
   "rewardHistory": "提现历史",
