@@ -94,7 +94,6 @@
   "tradingPool" : "Trading Pool",
   "liquidityPool" : "Liquidity Pool",
   "totalReward" : "Pool Reward",
-  "traderAmount" : "Trade Amount", 
   "myReward" : "My Reward",
   "withdraw": "Withdraw",
   "rewardHistory": "Withdraw History",
