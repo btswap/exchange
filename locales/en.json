@@ -94,7 +94,9 @@
   "tradingPool" : "Trading Pool",
   "liquidityPool" : "Liquidity Pool",
   "totalReward" : "Pool Reward",
-  "myReward" : "My Reward",
+  "traderAmount" : "Trade Amount", 
+  "myReward" : "Current rewards",
+  "myWithdrawl" : "Withdrawable rewards",
   "withdraw": "Withdraw",
   "rewardHistory": "Withdraw History",
   "noHistory": "No History",
@@ -135,5 +137,8 @@
   "Liquidity Provider QuestionHelper": "A portion of each trade (0.20%) goes to liquidity providers as a protocol incentive.",
   "LiquidityReward": "The 'liquidity reward' may change before you withdraw BT. It shows the  ratio of your liquidity. When you withdraw BT, the amount of tokens will be calculated and your corresponding rewards for liquidity mining will restart.",
   "TradingReward": "The 'trading reward balance' may fluctuate before you withdraw BT. The trading rewards displayed is based on the ratio of your transaction volume to the total transaction volume. Upon withdrawal of BT, your ratio will be updated for the next reward cycle.",
-  "Show All Pool": "Show All Pool"
+  "Show All Pool": "Show All Pool",
+  "CurrentPoolReward": "Transactions",
+  "MyRewardQuestion": "Your current transaction ratio per hour may increase or decrease ",
+  "MyWithdrawlQuestion": "Total every 24 hours current rewards"
 }
