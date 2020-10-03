@@ -559,6 +559,14 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/btswap/btswap.github.io/coins/bt.png"
     },
     {
+      "name": "UNI Token",
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.jsdelivr.net/gh/btswap/btswap.github.io/coins/UNI.png"
+    },
+    {
       "name": "STPT Token",
       "address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
       "symbol": "STPT",
